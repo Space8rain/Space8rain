@@ -1,12 +1,24 @@
 <h1 align="center">Ｈｉ ｔｈｅｒｅ 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
-[![codewars](https://www.codewars.com/users/Space8rain/badges/large)](https://www.codewars.com/users/Space8rain) 
+<h2 align="center">
+
+[![codewars](https://www.codewars.com/users/Space8rain/badges/large)](https://www.codewars.com/users/Space8rain)
+
+</h2>
+
+<h2 align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Space8rain&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+</h2>
+
+<h2 align="right">
 
 ![](https://komarev.com/ghpvc/?username=Space8rain)
+
+</h2>
 <!--
 **Space8rain/Space8rain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
