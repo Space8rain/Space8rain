@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Space8rain)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Space8rain&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
