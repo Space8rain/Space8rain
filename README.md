@@ -1,8 +1,9 @@
 <h1 align="center">Ｈｉ ｔｈｅｒｅ 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+[![codewars](https://www.codewars.com/users/Space8rain/badges/large)](https://www.codewars.com/users/Space8rain) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Space8rain&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Space8rain&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
