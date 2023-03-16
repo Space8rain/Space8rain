@@ -10,7 +10,7 @@
 
 <h2 align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Space8rain&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Space8rain&theme=tokyonight&hide_border=true&count_private=true)
 
 </h2>
 
